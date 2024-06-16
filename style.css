@@ -1,0 +1,38 @@
+header{
+    margin-left: 5vh;
+    font-family: "Inconsolata", monospace;
+}
+img{
+   width: 30%;
+   margin-top: 12vh;
+   margin-left: 12vh;
+   
+}
+div{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10vh;
+    margin-top: 7vh;
+    font-family: "Space Mono", monospace;
+}
+
+div h1{
+    font-size: 3.5em;
+}
+
+  div button{
+ margin-top: 5vh;
+ padding: 2vh;
+ border: solid black 1vh;
+ background-color: black;
+ color: white;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15vh;
+    color: rgb(110, 108, 108);
+}
+footer a{
+    color: rgb(110, 108, 108);
+}
